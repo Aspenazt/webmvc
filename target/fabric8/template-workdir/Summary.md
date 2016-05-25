@@ -1,1 +1,0 @@
-Shows how to use Spring Boot with WebMVC in the Java Container
